@@ -13,4 +13,4 @@ gb_lowess.fit(x_train, y_train)
 y_pred = gb_lowess.predict(x_test)
 ```
 
-More example usages are included in [GradientBoostedLowess_examples.ipynb](https://github.com/XiongCynthia/GradientBoostedLowess/blob/main/GradientBoostedLowess_examples.ipynb).
+More example usages are included in [GradientBoostedLowess_examples.ipynb](https://github.com/XiongCynthia/GradientBoostedLowess/blob/main/GradientBoostedLowess_examples.ipynb), which additionally showcases hyperparameter tuning with k-fold cross validation on the model.
