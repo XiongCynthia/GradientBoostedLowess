@@ -2,7 +2,7 @@
 
 [GradientBoostedLowess](https://github.com/XiongCynthia/GradientBoostedLowess/blob/main/GradientBoostedLowess.py) is a class for fitting and predicting data on a locally weighted scatterplot smoothing (LOWESS) model with gradient boosting.
 
-It requires [Lowess](https://xiongcynthia.github.io/Lowess) and [RegressionTree](https://xiongcynthia.github.io/RegressionTree) to work.
+It requires [Lowess.py](https://xiongcynthia.github.io/Lowess) and [RegressionTree.py](https://xiongcynthia.github.io/RegressionTree) to work.
 
 ### Usage
 
